@@ -1,0 +1,17 @@
+{
+    "Stocks": {
+        "apple": "AAPL",
+        "tesla": "TSLA",
+        "microsoft": "MSFT",
+        "amazon": "AMZN",
+        "google": "GOOG"
+    },
+    "Stocks Values": {
+        "Open": {
+            "apple": "",
+            "tesla": "",
+            "microsoft": "",
+            "google": ""
+        }
+    }
+}
